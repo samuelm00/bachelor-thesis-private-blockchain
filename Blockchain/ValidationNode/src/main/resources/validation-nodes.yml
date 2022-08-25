@@ -1,0 +1,14 @@
+validation-nodes:
+  connections:
+    - ip: localhost
+      port: 9002
+      publicKey: 1
+      serverPort: 9001
+    - ip: localhost
+      port: 9003
+      publicKey: 2
+      serverPort: 9004
+    - ip: localhost
+      port: 9005
+      publicKey: 3
+      serverPort: 9006
